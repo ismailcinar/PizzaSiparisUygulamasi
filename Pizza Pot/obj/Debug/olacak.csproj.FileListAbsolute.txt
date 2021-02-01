@@ -1,0 +1,80 @@
+C:\Users\pc\source\repos\olacak\olacak\bin\Debug\olacak.exe.config
+C:\Users\pc\source\repos\olacak\olacak\bin\Debug\olacak.exe
+C:\Users\pc\source\repos\olacak\olacak\bin\Debug\olacak.pdb
+C:\Users\pc\source\repos\olacak\olacak\obj\Debug\olacak.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\olacak\olacak\obj\Debug\olacak.Form1.resources
+C:\Users\pc\source\repos\olacak\olacak\obj\Debug\olacak.Properties.Resources.resources
+C:\Users\pc\source\repos\olacak\olacak\obj\Debug\olacak.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\olacak\olacak\obj\Debug\olacak.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\olacak\olacak\obj\Debug\olacak.exe
+C:\Users\pc\source\repos\olacak\olacak\obj\Debug\olacak.pdb
+C:\Users\ayoru\Desktop\olacak\olacak\bin\Debug\olacak.exe.config
+C:\Users\ayoru\Desktop\olacak\olacak\bin\Debug\olacak.exe
+C:\Users\ayoru\Desktop\olacak\olacak\bin\Debug\olacak.pdb
+C:\Users\ayoru\Desktop\olacak\olacak\obj\Debug\olacak.csprojAssemblyReference.cache
+C:\Users\ayoru\Desktop\olacak\olacak\obj\Debug\olacak.Form1.resources
+C:\Users\ayoru\Desktop\olacak\olacak\obj\Debug\olacak.Properties.Resources.resources
+C:\Users\ayoru\Desktop\olacak\olacak\obj\Debug\olacak.csproj.GenerateResource.cache
+C:\Users\ayoru\Desktop\olacak\olacak\obj\Debug\olacak.csproj.CoreCompileInputs.cache
+C:\Users\ayoru\Desktop\olacak\olacak\obj\Debug\olacak.exe
+C:\Users\ayoru\Desktop\olacak\olacak\obj\Debug\olacak.pdb
+C:\Users\pc\Desktop\deneme\deneme\bin\Debug\olacak.exe.config
+C:\Users\pc\Desktop\deneme\deneme\bin\Debug\olacak.exe
+C:\Users\pc\Desktop\deneme\deneme\bin\Debug\olacak.pdb
+C:\Users\pc\Desktop\deneme\deneme\obj\Debug\olacak.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\deneme\deneme\obj\Debug\olacak.Form1.resources
+C:\Users\pc\Desktop\deneme\deneme\obj\Debug\olacak.Properties.Resources.resources
+C:\Users\pc\Desktop\deneme\deneme\obj\Debug\olacak.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\deneme\deneme\obj\Debug\olacak.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\deneme\deneme\obj\Debug\olacak.exe
+C:\Users\pc\Desktop\deneme\deneme\obj\Debug\olacak.pdb
+C:\Users\pc\Desktop\sonhali\deneme\bin\Debug\olacak.exe.config
+C:\Users\pc\Desktop\sonhali\deneme\bin\Debug\olacak.exe
+C:\Users\pc\Desktop\sonhali\deneme\bin\Debug\olacak.pdb
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.Form1.resources
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.Properties.Resources.resources
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.exe
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.pdb
+C:\Users\pc\Desktop\sonhali\deneme\obj\Debug\olacak.Form2.resources
+C:\Users\pc\Desktop\Yeni klasör (20)\bin\Debug\olacak.exe.config
+C:\Users\pc\Desktop\Yeni klasör (20)\bin\Debug\olacak.exe
+C:\Users\pc\Desktop\Yeni klasör (20)\bin\Debug\olacak.pdb
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.Form1.resources
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.Form2.resources
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.Properties.Resources.resources
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.exe
+C:\Users\pc\Desktop\Yeni klasör (20)\obj\Debug\olacak.pdb
+C:\Users\ayoru\Desktop\Yeni_klasor_20\bin\Debug\olacak.exe.config
+C:\Users\ayoru\Desktop\Yeni_klasor_20\bin\Debug\olacak.exe
+C:\Users\ayoru\Desktop\Yeni_klasor_20\bin\Debug\olacak.pdb
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.csprojAssemblyReference.cache
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.Form1.resources
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.Form2.resources
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.Properties.Resources.resources
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.csproj.GenerateResource.cache
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.csproj.CoreCompileInputs.cache
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.exe
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.pdb
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.Form3.resources
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.Form4.resources
+C:\Users\ayoru\Desktop\Yeni_klasor_20\obj\Debug\olacak.Form5.resources
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\bin\Debug\olacak.exe.config
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\bin\Debug\olacak.exe
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\bin\Debug\olacak.pdb
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.csprojAssemblyReference.cache
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.Form1.resources
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.Form2.resources
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.Form3.resources
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.Form4.resources
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.Form5.resources
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.Properties.Resources.resources
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.csproj.GenerateResource.cache
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.csproj.CoreCompileInputs.cache
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.exe
+C:\Users\ayoru\Desktop\BM102 FİNAL\Pizza Pot\obj\Debug\olacak.pdb
